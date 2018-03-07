@@ -18,6 +18,12 @@ Preload Kubernetes images form Alibaba Cloud Registry Service, NOTE: you can mod
 ./load_images.sh
 ```
 
+or for windows
+
+```
+./load_images.bat
+```
+
 Enable Kubernetes in Docker for Mac, and wait a while for Kubernetes is running
 
 
